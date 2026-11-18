@@ -1,0 +1,5 @@
+Tidak/Tahan penyetakan surat jalan (ada warning dari backend karena net weight melebihi batas)
+lalu cek ulang datanya apakah ada yang tidak valid kalau semua valid eskalasi ke spv atau tim yang berwenang.
+Komunikasi dengan supir bahwa masalah ini harus dieskalasikan sehingga pengiriman harus ditunda/dijadwalkan ulang.
+ Dokumentasikan setiap log, siapa yang approve? Jam berapa? Berat sebelum dan sesudah?
+
